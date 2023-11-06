@@ -7,9 +7,9 @@
 ### This is a Google Clone made with Next.js13 and TailwindCSS
 
 ### Key Features
-- You are able to Search terms and images.
+- Ability to Search terms and images.
 - Utilizes the Programmable Search Engine API & Extreme-ip-lookup API. 
-- Design is Responsive.
+- Perfect Design which is Responsive.
 - Feel free to search anything or anyone!
 
 
